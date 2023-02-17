@@ -1,0 +1,38 @@
+/* Estilos da pagina index.html */
+.center{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+#menu li{
+    display: inline;
+    padding: 30px;
+}
+
+#menu li a{
+    text-decoration: none;
+    color: blue;
+    font-size: 28px;
+}
+
+
+#menu li a:hover{
+    color: aquamarine;
+
+}
+
+.p30{
+    color: blueviolet;
+}
+
+
+/* Estilos da pagina Contato.html*/
+
+
+
+
